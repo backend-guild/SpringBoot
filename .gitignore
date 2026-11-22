@@ -1,0 +1,20 @@
+# 앞에 '/'가 없는 패턴은 루트뿐 아니라 모든 하위 폴더(week01, week02, ...)에도 적용됩니다.
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+### Gradle / 빌드 산출물 ###
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+### VS Code ###
+.vscode/
+
+### OS ###
+.DS_Store
+Thumbs.db
