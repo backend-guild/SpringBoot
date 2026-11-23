@@ -6,7 +6,7 @@ plugins {
 
 group = 'me.leejaein'
 version = '0.0.1-SNAPSHOT'
-description = 'week01'
+description = 'week02'
 
 java {
     toolchain {
